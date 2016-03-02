@@ -1,0 +1,83 @@
+
+.container {
+    border: 15px solid azure; 
+    flex-direction: row;
+    flex-wrap: wrap;
+    height: 430px;
+    width: 100%;
+    padding: 0 0;
+}
+    
+label {
+    font-weight: bold;
+    color: gray;
+    position: absolute;
+    font-size: 15px;
+    font-family: arial;
+}
+
+div input{
+    font-size: 14px;
+    font-weight: bold;
+    color: lightgrey;
+}
+
+#name {
+    width: 50%;
+    height: 104px;
+}
+
+#company {
+    width: 48.8%;
+    height: 104px;
+}
+
+#phoneNumber {
+    width: 33%;
+    height: 104px;
+}
+
+#email {
+    width: 32.6%;
+    height: 104px;
+}
+
+#availability {
+    width: 32.5%;
+    height: 104px;
+}
+
+#skills {
+    width: 24.5%;
+    height: 104px;
+}
+
+#yrsexperience {
+    width: 24.5%;
+    height: 104px;
+}
+
+#favoritecolor {
+    width: 24.5%;
+    height: 104px;
+}
+
+#language {
+    width: 23.9%;
+    height: 104px;
+}
+
+#submit {
+    background-color: olivedrab;
+    border-radius: 5px;
+    margin: 2%;
+    height: 40px;
+    width: 500px;
+    font-size: 20px;
+    color: white;
+}
+
+#button {
+    text-align: center;
+   
+}
